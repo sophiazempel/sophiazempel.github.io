@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sophia Zempel's Resume</title>
+<meta charset="utf-8" />
+<body>
+  <script src="//jzempel.github.io/index.js"></script>
+  <script>
+  (function()
+  {
+    var xmlUrl = 'resume.xml';
+    var xslUrl = 'xsl/resume2html.xsl';
+    var links = {
+      'PDF Resume': 'Sophia Zempel.pdf',
+      'Sophia Renée Photography': 'https://sophiarenee-photography.squarespace.com',
+      'Dribbble': 'https://dribbble.com/sophiazempel'
+    };
+    var html = transform(xmlUrl, xslUrl, links);
+
+    if (html != null)
+    {
+      document.open();
+      document.write(html);
+      document.close();
+    }
+    else
+    {
+      location.replace('Sophia Zempel.pdf');
+    }
+  })();
+  </script>
+</body>
+</html>

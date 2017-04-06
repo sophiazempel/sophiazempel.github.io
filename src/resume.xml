@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://ns.hr-xml.org/2007-04-15 https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+  <StructuredXMLResume>
+    <ContactInfo>
+      <PersonName>
+        <GivenName>Sophia</GivenName>
+        <FamilyName>Zempel</FamilyName>
+      </PersonName>
+      <ContactMethod>
+        <Telephone>
+          <FormattedNumber>408.724.0004</FormattedNumber>
+        </Telephone>
+        <InternetEmailAddress>sophia.zempel@gmail.com</InternetEmailAddress>
+          <InternetWebAddress>https://sophiazempel.github.io</InternetWebAddress>
+        <PostalAddress>
+          <CountryCode>US</CountryCode>
+          <PostalCode>95120</PostalCode>
+          <Region>CA</Region>
+          <Municipality>San Jose</Municipality>
+          <DeliveryAddress>
+            <AddressLine>6362 Desert Flame Dr.</AddressLine>
+          </DeliveryAddress>
+        </PostalAddress>
+      </ContactMethod>
+    </ContactInfo>
+
+    <ExecutiveSummary>
+      I am a hard-working student majoring in graphic design at George Fox
+      University. I am passionate about building relationships, deepening
+      friendships, and finding ways to collaborate with others. My art reflects
+      this, as I strive to connect and empathize with others through the pieces
+      I create. Having a rich and diverse educational background has allowed me
+      to be open-minded and flexible, and I love thinking of creative ways to
+      support a mission or cause.
+    </ExecutiveSummary>
+
+    <Objective></Objective>
+
+    <EmploymentHistory>
+      <EmployerOrg>
+        <EmployerOrgName>George Fox Phonathon</EmployerOrgName>
+        <EmployerContactInfo>
+          <ContactMethod>
+            <PostalAddress>
+              <CountryCode>US</CountryCode>
+              <PostalCode>97132</PostalCode>
+              <Region>OR</Region>
+              <Municipality>Newberg</Municipality>
+              <DeliveryAddress>
+                <AddressLine>414 N Meridian St</AddressLine>
+              </DeliveryAddress>
+            </PostalAddress>
+          </ContactMethod>
+        </EmployerContactInfo>
+        <PositionHistory>
+          <Title>Caller</Title>
+          <OrgName>
+            <OrganizationName />
+          </OrgName>
+          <Description>
+            Employee at call center where calls are made to alumni, parents and
+            others connected to the university in order to raise money for the
+            Student Fund – which goes to fund scholarships and other important
+            improvements around campus.
+          </Description>
+          <StartDate>
+            <YearMonth>2016-11</YearMonth>
+          </StartDate>
+          <Competency
+              description="Communication skills" />
+          <Competency
+              description="Building rapport" />
+          <Competency
+              description="Being assertive with clients" />
+          <Competency
+              description="Asking for funds from patrons while building relationships" />
+        </PositionHistory>
+      </EmployerOrg>
+      <EmployerOrg>
+        <EmployerOrgName>Sophia Ren&#xE9;e Photography</EmployerOrgName>
+        <EmployerContactInfo>
+          <ContactMethod>
+            <PostalAddress>
+              <CountryCode>US</CountryCode>
+              <PostalCode>95120</PostalCode>
+              <Region>CA</Region>
+              <Municipality>San Jose</Municipality>
+              <DeliveryAddress>
+                <AddressLine>6362 Desert Flame Dr.</AddressLine>
+              </DeliveryAddress>
+            </PostalAddress>
+          </ContactMethod>
+        </EmployerContactInfo>
+        <PositionHistory>
+          <Title>Portrait and Lifestyle Photographer</Title>
+          <OrgName>
+            <OrganizationName />
+          </OrgName>
+          <Description>
+            As a self-employed photographer, I acquired the following skills:
+          </Description>
+          <StartDate>
+            <YearMonth>2013-08</YearMonth>
+          </StartDate>
+          <Competency
+              description="How to build a small business" />
+          <Competency
+              description="How to build a website" />
+          <Competency
+              description="Post-processing and editing of photos via software applications" />
+          <Competency
+              description="Client communication" />
+          <Competency
+              description="Management of time and workflow" />
+          <Competency
+              description="Meeting deadlines" />
+        </PositionHistory>
+      </EmployerOrg>
+      <EmployerOrg>
+        <EmployerOrgName>Amato Pizzeria</EmployerOrgName>
+        <EmployerContactInfo>
+          <ContactMethod>
+            <PostalAddress>
+              <CountryCode>US</CountryCode>
+              <PostalCode>95120</PostalCode>
+              <Region>CA</Region>
+              <Municipality>San Jose</Municipality>
+              <DeliveryAddress>
+                <AddressLine>6081 Meridian Avenue, Suite #60</AddressLine>
+              </DeliveryAddress>
+            </PostalAddress>
+          </ContactMethod>
+        </EmployerContactInfo>
+        <PositionHistory>
+          <Title>Restaurant Server</Title>
+          <OrgName>
+            <OrganizationName />
+          </OrgName>
+          <Description>
+            Employee at local, family-owned pizzeria; take orders by phone,
+            manage cash register, serve food, and provide overall quality
+            customer service.
+          </Description>
+          <StartDate>
+            <YearMonth>2015-09</YearMonth>
+          </StartDate>
+          <EndDate>
+            <YearMonth>2016-07</YearMonth>
+          </EndDate>
+          <Competency
+              description="Cooperation in a teamwork setting" />
+          <Competency
+              description="Organization" />
+          <Competency
+              description="Communication skills" />
+          <Competency
+              description="Working with a diverse range of people (adults and peers alike)" />
+        </PositionHistory>
+      </EmployerOrg>
+      <EmployerOrg>
+        <EmployerOrgName>The Strohman Family</EmployerOrgName>
+        <EmployerContactInfo>
+          <ContactMethod>
+            <PostalAddress>
+              <CountryCode>US</CountryCode>
+              <PostalCode>94086</PostalCode>
+              <Region>CA</Region>
+              <Municipality>Sunnyvale</Municipality>
+              <DeliveryAddress>
+                <AddressLine>574 S Taaffe Street</AddressLine>
+              </DeliveryAddress>
+            </PostalAddress>
+          </ContactMethod>
+        </EmployerContactInfo>
+        <PositionHistory>
+          <Title>Part Time Nanny</Title>
+          <OrgName>
+            <OrganizationName />
+          </OrgName>
+          <Description>
+            Childcare for two small children during the summertime; included
+            providing meals, ensuring safety, and building lasting
+            relationships with the children.
+          </Description>
+          <StartDate>
+            <YearMonth>2010-06</YearMonth>
+          </StartDate>
+          <EndDate>
+            <YearMonth>2014-08</YearMonth>
+          </EndDate>
+          <Competency
+              description="Responsibility" />
+          <Competency
+              description="Time Management" />
+          <Competency
+              description="General childcare" />
+          <Competency
+              description="Light housecleaning" />
+          <Competency
+              description="Cooking meals" />
+        </PositionHistory>
+      </EmployerOrg>
+    </EmploymentHistory>
+
+    <EducationHistory>
+      <SchoolOrInstitution schoolType="university">
+        <SchoolName>George Fox University</SchoolName>
+        <Degree degreeType="some high school or equivalent">
+          <DegreeName>Freshman Undergraduate</DegreeName>
+          <DegreeMajor>
+            <Name>Graphic Design</Name>
+          </DegreeMajor>
+          <DegreeMinor>
+            <Name>Marketing</Name>
+          </DegreeMinor>
+          <DegreeMeasure>
+            <EducationalMeasure>
+              <MeasureSystem>GPA</MeasureSystem>
+              <MeasureValue>
+                <NumericValue>3.5</NumericValue>
+              </MeasureValue>
+            </EducationalMeasure>
+          </DegreeMeasure>
+        </Degree>
+      </SchoolOrInstitution>
+    </EducationHistory>
+
+    <PatentHistory>
+    </PatentHistory>
+
+    <PublicationHistory>
+    </PublicationHistory>
+
+    <Qualifications>
+      <Competency name="2017">
+        <Competency name="Photographer for Crescent Magazine at George Fox University" />
+      </Competency>
+      <Competency name="2014, 2015">
+        <Competency name="Volunteer at a Native American reservation during the summer in partnership with Sacred Road Ministries" />
+      </Competency>
+      <Competency name="2014-15">
+        <Competency name="Treasurer for NAACH  (multi-cultural bollywood dance group)" />
+      </Competency>
+      <Competency name="2015-16">
+        <Competency name="Member of Leland in Focus (school photography club)" />
+      </Competency>
+      <Competency name="2015-16">
+        <Competency name="Member of Senior Women (community service club)" />
+      </Competency>
+    </Qualifications>
+
+    <Achievements>
+      <Achievement>
+        <Date>
+          <Year>2016</Year>
+        </Date>
+        <Description>
+          University Honor Roll
+        </Description>
+      </Achievement>
+      <Achievement>
+        <Date>
+          <Year>2015</Year>
+        </Date>
+        <Description>
+          &#x201C;Responsibility&#x201D; Award (given by Leland High School)
+        </Description>
+      </Achievement>
+      <Achievement>
+        <Date>
+          <Year>2014</Year>
+        </Date>
+        <Description>
+          JV Field Hockey team captain
+        </Description>
+      </Achievement>
+      <Achievement>
+        <Date>
+          <Year>2012</Year>
+        </Date>
+        <Description>
+          CPR certified by Leland High School and Girls Scouts of America
+        </Description>
+      </Achievement>
+    </Achievements>
+
+    <Associations>
+    </Associations>
+
+    <ResumeAdditionalItems>
+      <ResumeAdditionalItem>
+        <Description>
+          typography
+        </Description>
+      </ResumeAdditionalItem>
+      <ResumeAdditionalItem>
+        <Description>
+          web design
+        </Description>
+      </ResumeAdditionalItem>
+      <ResumeAdditionalItem>
+        <Description>
+          hiking and camping
+        </Description>
+      </ResumeAdditionalItem>
+      <ResumeAdditionalItem>
+        <Description>
+          indie music guru
+        </Description>
+      </ResumeAdditionalItem>
+      <ResumeAdditionalItem>
+        <Description>
+          instagram aficionado
+        </Description>
+      </ResumeAdditionalItem>
+      <ResumeAdditionalItem>
+        <Description>
+          spending time with friends and family
+        </Description>
+      </ResumeAdditionalItem>
+    </ResumeAdditionalItems>
+
+    <RevisionDate>2017-04-06</RevisionDate>
+  </StructuredXMLResume>
+</Resume>
