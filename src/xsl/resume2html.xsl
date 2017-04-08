@@ -7,14 +7,7 @@
   <xsl:param name="myLinks" />
 
   <xsl:template match="resume:StructuredXMLResume">
-      <html lang="en">
-      <head>
-        <title>
-          <xsl:call-template name="getPersonName" />
-          <xsl:text>'s Resume</xsl:text>
-        </title>
-        <link href="index.css" rel="stylesheet" />
-      </head>
+    <html lang="en">
       <body>
         <div class="content">
           <xsl:apply-templates select="resume:ContactInfo" />
