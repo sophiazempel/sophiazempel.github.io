@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Sophia Zempel's Resume</title>
-<meta charset="utf-8" />
+  <title>Sophia Zempel's Resume</title>
+  <meta charset="utf-8">
+  <link href="index.css" rel="stylesheet">
 <body>
+  <script async src="//www.google-analytics.com/analytics.js"></script>
   <script src="//jzempel.github.io/index.js"></script>
   <script>
-  (function()
-  {
+  (function() {
     var xmlUrl = 'resume.xml';
     var xslUrl = 'xsl/resume2html.xsl';
     var links = {
@@ -17,16 +18,15 @@
     };
     var html = transform(xmlUrl, xslUrl, links);
 
-    if (html != null)
-    {
+    if (html != null) {
       document.open();
       document.write(html);
       document.close();
-    }
-    else
-    {
+    } else {
       location.replace('Sophia Zempel.pdf');
     }
+
+    setGoogleAnalytics('UA-97023965-1');
   })();
   </script>
 </body>
